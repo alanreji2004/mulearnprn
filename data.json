@@ -89,35 +89,35 @@
         },
         "campusLead": {
             "name": "Akhil A",
-            "image": "/assets/Akhil A.jpg"
+            "image": "/assets/Akhil.webp"
         },
         "campusCoLead": {
             "name": "Sundara Siva",
-            "image": "/assets/Akhil A.jpg"
+            "image": "/assets/Akhil.webp"
         },
         "webiglead": {
             "name": "Devika Dileep",
-            "image": "/assets/Akhil A.jpg"
+            "image": "/assets/Akhil.webp"
         },
         "webigcolead": {
             "name": "Aamina N",
-            "image": "/assets/Akhil A.jpg"
+            "image": "/assets/Akhil.webp"
         },
         "appdevlead": {
             "name": "M R Nandhana",
-            "image": "/assets/Akhil A.jpg"
+            "image": "/assets/Akhil.webp"
         },
         "appdevcolead": {
             "name": "Nandu M V",
-            "image": "/assets/Akhil A.jpg"
+            "image": "/assets/Akhil.webp"
         },
         "designlead": {
             "name": "Adithyan S Kumar",
-            "image": "/assets/Akhil A.jpg"
+            "image": "/assets/Akhil.webp"
         },
         "designcolead": {
             "name": "Aadil S",
-            "image": "/assets/Akhil A.jpg"
+            "image": "/assets/Akhil.webp"
         }
     },
 
