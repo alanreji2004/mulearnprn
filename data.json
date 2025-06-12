@@ -11,21 +11,21 @@
             "date": "26",
             "head": "Salt Mango Tree",
             "para": "Dive into the art of photography this Wednesday at 8 PM on the Salt Mango Tree Twitch, only on the #lobby voice channel!",
-            "img": "/assets/studysync.jpg"
+            "img": "/assets/studysync.webp"
         },
         {
             "month": "Apr",
             "date": "04",
             "head": "Inspiration Station Radio",
             "para": "Join us on April 4th for an inspiring session with Jayakrishan P U on Discord Stages, hosted by GTech µLearn’s Inspiration Station Radio.",
-            "img": "/assets/weeklytwitch.jpg"
+            "img": "/assets/weeklytwitch.webp"
         },
         {
             "month": "Mar",
             "date": "23",
             "head": "IdeaVerse",
             "para": "Ideaverse is a platform that fosters innovation through idea sharing, collaboration, and creative problem-solving.",
-            "img": "/assets/ideaverse.jpg"
+            "img": "/assets/ideaverse.webp"
         },
         {
             "month": "Mar",
@@ -39,53 +39,53 @@
             "date": "26",
             "head": "Salt Mango Tree",
             "para": "Dive into the art of photography this Wednesday at 8 PM on the Salt Mango Tree Twitch, only on the #lobby voice channel!",
-            "img": "/assets/saltmangotree.jpg"
+            "img": "/assets/saltmangotree.webp"
         }
     ],
 
     "gallery": {
         "row1": [
             {
-                "image": "/assets/gallery1.jpg"
+                "image": "/assets/gallery1.webp"
             },
             {
-                "image": "/assets/gallery2.jpg"
+                "image": "/assets/gallery2.webp"
             },
 			{
-				"image": "/assets/gallery3.jpg"
+				"image": "/assets/gallery3.webp"
 			},
             {
-				"image": "/assets/gallery6.jpg"
+				"image": "/assets/gallery6.webp"
 			}
         ],
         "row2": [
             {
-                "image": "/assets/gallery4.jpg"
+                "image": "/assets/gallery4.webp"
             },
             {
-                "image": "/assets/gallery7.jpg"
+                "image": "/assets/gallery7.webp"
             },
             {
                 "image": "/assets/gallery5.webp"
             },
             {
-                "image": "/assets/gallery8.jpg"
+                "image": "/assets/gallery8.webp"
             }
         ]
     },
 
     "statistics": {
-        "studentsCount": 30,
-        "learningCircles": 10,
+        "studentsCount": 400,
+        "learningCircles": 20,
         "InterestGroups": 5,
-        "karmaEarned": 60,
-        "rank": 28
+        "karmaEarned": 217500,
+        "rank": 25
     },
 
     "team": {
         "staffAdvisor": {
             "name": "Anish A Aziz",
-            "image": "/assets/anishsir.jpg"
+            "image": "/assets/anishsir.webp"
         },
         "campusLead": {
             "name": "Akhil A",
@@ -93,35 +93,35 @@
         },
         "campusCoLead": {
             "name": "Sundara Siva",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+            "image": "/assets/Akhil A.jpg"
         },
         "webiglead": {
             "name": "Devika Dileep",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+            "image": "/assets/Akhil A.jpg"
         },
         "webigcolead": {
             "name": "Aamina N",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+            "image": "/assets/Akhil A.jpg"
         },
         "appdevlead": {
             "name": "M R Nandhana",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+            "image": "/assets/Akhil A.jpg"
         },
         "appdevcolead": {
             "name": "Nandu M V",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+            "image": "/assets/Akhil A.jpg"
         },
         "designlead": {
             "name": "Adithyan S Kumar",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+            "image": "/assets/Akhil A.jpg"
         },
         "designcolead": {
-            "name": "Adithyan S Kumar",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+            "name": "Aadil S",
+            "image": "/assets/Akhil A.jpg"
         }
     },
 
-    "discordLink": "",
+    "discordLink": "https://discord.gg/Cqg9H5wq",
 
     "whatsAppLink": "",
 

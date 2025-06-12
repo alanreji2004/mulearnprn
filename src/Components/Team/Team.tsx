@@ -13,6 +13,8 @@ const Team = () => {
                     <img src={line2} alt="" loading="lazy" />
                     <img src={line} alt="" loading="lazy" />
                     <img src={line2} alt="" loading="lazy" />
+                    <img src={line} alt="" loading="lazy" />
+
                 </div>
                 <div className={styles.teamMembersDetailsWrapper}>
                     <div className={`${styles.team} ${styles.team1}`}>
@@ -151,6 +153,74 @@ const Team = () => {
                             </div>
                         </div>
                     </div>
+                    <div className={`${styles.team} ${styles.team9}`}>
+                        <div className={styles.team1Img}>
+                            <img
+                                className={styles.teamImageIndividual}
+                                src={data.team.designcolead.image}
+                                loading="lazy"
+                            />
+                        </div>
+                        <div className={styles.teamNameDesignation}>
+                            <div className={styles.teamMemberName}>
+                                {data.team.designcolead.name}
+                            </div>
+                            <div className={styles.teamMemberDesignation}>
+                                Design CoLead
+                            </div>
+                        </div>
+                    </div>
+                    {/* <div className={`${styles.team} ${styles.team10}`}>
+                        <div className={styles.team1Img}>
+                            <img
+                                className={styles.teamImageIndividual}
+                                src={data.team.campusLead.image}
+                                loading="lazy"
+                            />
+                        </div>
+                        <div className={styles.teamNameDesignation}>
+                            <div className={styles.teamMemberName}>
+                                {data.team.campusLead.name}
+                            </div>
+                            <div className={styles.teamMemberDesignation}>
+                                Campus Lead
+                            </div>
+                        </div>
+                    </div>
+                    <div className={`${styles.team} ${styles.team3}`}>
+                        <div className={styles.team1Img}>
+                            <img
+                                className={styles.teamImageIndividual}
+                                src={data.team.campusCoLead.image}
+                                loading="lazy"
+                            />
+                        </div>
+                        <div className={styles.teamNameDesignation}>
+                            <div className={styles.teamMemberName}>
+                                {data.team.campusCoLead.name}
+                            </div>
+                            <div className={styles.teamMemberDesignation}>
+                                Campus Co-Lead
+                            </div>
+                        </div>
+                    </div>
+                    <div className={`${styles.team} ${styles.team4}`}>
+                        <div className={styles.team1Img}>
+                            <img
+                                className={styles.teamImageIndividual}
+                                src={data.team.webiglead.image}
+                                loading="lazy"
+                            />
+                        </div>
+                        <div className={styles.teamNameDesignation}>
+                            <div className={styles.teamMemberName}>
+                                {data.team.webiglead.name}
+                            </div>
+                            <div className={styles.teamMemberDesignation}>
+                                Web Ig Lead
+                            </div>
+                        </div>
+                    </div> */}
                 </div>
             </div>
         </div>

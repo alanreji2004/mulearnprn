@@ -15,8 +15,8 @@
 
 .teamBodyWrapper {
     position: relative;
-    height: 85vh;
-    min-height: 700px;
+    height: 200vh;
+    min-height: 1200px;
 }
 
 .teamBgLineWrapper {
@@ -162,6 +162,13 @@
     left: 77%;
 }
 
+
+.team9{
+    margin-top: 110rem;
+    left: 40%;
+}
+
+
 @media screen and (max-width: 1650px) {
     .teamBodyWrapper {
         height: 95vh;
@@ -293,6 +300,10 @@
 
         left: 60%;
     }
+    .team9{
+        margin-top:110rem ;
+        left: 40%;
+    }
 }
 
 @media screen and (max-width: 900px) {
@@ -310,7 +321,8 @@
 
 @media screen and (max-width: 780px) {
     .teamBodyWrapper {
-        height: 105vh;
+        height: 185vh;
+        min-height: 1500px;
     }
 
     .teamBgLineWrapper> :nth-child(3) {
@@ -380,6 +392,10 @@
         margin-top: 530px;
 
         left: 56%;
+    }
+    .team9{
+        margin-top: 125rem;
+        left: 40%;
     }
 }
 
@@ -509,6 +525,10 @@
         margin-top: 650px;
 
         left: 52%;
+    }
+    .team9{
+        margin-top: 135rem;
+        left: 30%;
     }
 }
 
