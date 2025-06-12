@@ -1,0 +1,137 @@
+{
+    "collegeCode": "PRN",
+
+    "college": "College of Engineering Perumon",
+
+    "about": "Become a part of µLearn to enrich your tech experience and cultivate meaningful connections. Elevate your journey in the world of technology with us – where learning is interactive, sharing is encouraged, and growth is inevitable. Connect, explore, and thrive with µLearn – your premier hub for tech excellence. Join us today and amplify your tech prowess!",
+
+    "events": [
+        {
+            "month": "Feb",
+            "date": "26",
+            "head": "Salt Mango Tree",
+            "para": "Dive into the art of photography this Wednesday at 8 PM on the Salt Mango Tree Twitch, only on the #lobby voice channel!",
+            "img": "/assets/studysync.jpg"
+        },
+        {
+            "month": "Apr",
+            "date": "04",
+            "head": "Inspiration Station Radio",
+            "para": "Join us on April 4th for an inspiring session with Jayakrishan P U on Discord Stages, hosted by GTech µLearn’s Inspiration Station Radio.",
+            "img": "/assets/weeklytwitch.jpg"
+        },
+        {
+            "month": "Mar",
+            "date": "23",
+            "head": "IdeaVerse",
+            "para": "Ideaverse is a platform that fosters innovation through idea sharing, collaboration, and creative problem-solving.",
+            "img": "/assets/ideaverse.jpg"
+        },
+        {
+            "month": "Mar",
+            "date": "13",
+            "head": "BuildMyWeb",
+            "para": "BuildMyWeb is an online bootcamp focused on practical web development skills.",
+            "img": "/assets/image.png"
+        },
+        {
+            "month": "Feb",
+            "date": "26",
+            "head": "Salt Mango Tree",
+            "para": "Dive into the art of photography this Wednesday at 8 PM on the Salt Mango Tree Twitch, only on the #lobby voice channel!",
+            "img": "/assets/saltmangotree.jpg"
+        }
+    ],
+
+    "gallery": {
+        "row1": [
+            {
+                "image": "/assets/gallery1.jpg"
+            },
+            {
+                "image": "/assets/gallery2.jpg"
+            },
+			{
+				"image": "/assets/gallery3.jpg"
+			},
+            {
+				"image": "/assets/gallery6.jpg"
+			}
+        ],
+        "row2": [
+            {
+                "image": "/assets/gallery4.jpg"
+            },
+            {
+                "image": "/assets/gallery7.jpg"
+            },
+            {
+                "image": "/assets/gallery5.webp"
+            },
+            {
+                "image": "/assets/gallery8.jpg"
+            }
+        ]
+    },
+
+    "statistics": {
+        "studentsCount": 30,
+        "learningCircles": 10,
+        "InterestGroups": 5,
+        "karmaEarned": 60,
+        "rank": 28
+    },
+
+    "team": {
+        "staffAdvisor": {
+            "name": "Anish A Aziz",
+            "image": "/assets/anishsir.jpg"
+        },
+        "campusLead": {
+            "name": "Akhil A",
+            "image": "/assets/Akhil A.jpg"
+        },
+        "campusCoLead": {
+            "name": "Sundara Siva",
+            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+        },
+        "webiglead": {
+            "name": "Devika Dileep",
+            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+        },
+        "webigcolead": {
+            "name": "Aamina N",
+            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+        },
+        "appdevlead": {
+            "name": "M R Nandhana",
+            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+        },
+        "appdevcolead": {
+            "name": "Nandu M V",
+            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+        },
+        "designlead": {
+            "name": "Adithyan S Kumar",
+            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+        },
+        "designcolead": {
+            "name": "Adithyan S Kumar",
+            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+        }
+    },
+
+    "discordLink": "",
+
+    "whatsAppLink": "",
+
+    "email": "mulearn@cce.edu.in",
+
+    "linkedIn": "",
+
+    "instagram": "",
+
+    "twitter": "",
+
+    "facebook": ""
+}
