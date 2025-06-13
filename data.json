@@ -7,10 +7,10 @@
 
     "events": [
         {
-            "month": "Feb",
-            "date": "26",
+            "month": "Apr",
+            "date": "12",
             "head": "Salt Mango Tree",
-            "para": "Dive into the art of photography this Wednesday at 8 PM on the Salt Mango Tree Twitch, only on the #lobby voice channel!",
+            "para": "StudySync is a collaborative study program that brings students together to learn, share, and grow through synchronized study sessions and peer support.",
             "img": "/assets/studysync.webp"
         },
         {
@@ -32,7 +32,7 @@
             "date": "13",
             "head": "BuildMyWeb",
             "para": "BuildMyWeb is an online bootcamp focused on practical web development skills.",
-            "img": "/assets/image.png"
+            "img": "/assets/image.webp"
         },
         {
             "month": "Feb",
@@ -92,44 +92,44 @@
             "image": "/assets/Akhil.webp"
         },
         "campusCoLead": {
-            "name": "Sundara Siva",
-            "image": "/assets/Akhil.webp"
+            "name": "Sundara Siva Sreerag",
+            "image": "/assets/Sundara.webp"
         },
         "webiglead": {
             "name": "Devika Dileep",
-            "image": "/assets/Akhil.webp"
+            "image": "/assets/Devika.webp"
         },
         "webigcolead": {
             "name": "Aamina N",
-            "image": "/assets/Akhil.webp"
+            "image": "/assets/Aamina.webp"
         },
         "appdevlead": {
             "name": "M R Nandhana",
-            "image": "/assets/Akhil.webp"
+            "image": "/assets/Nandana.webp"
         },
         "appdevcolead": {
             "name": "Nandu M V",
-            "image": "/assets/Akhil.webp"
+            "image": "/assets/Nandhu.webp"
         },
         "designlead": {
             "name": "Adithyan S Kumar",
-            "image": "/assets/Akhil.webp"
+            "image": "/assets/Adithyan.webp"
         },
         "designcolead": {
             "name": "Aadil S",
-            "image": "/assets/Akhil.webp"
+            "image": "/assets/Aadil.webp"
         }
     },
 
     "discordLink": "https://discord.gg/Cqg9H5wq",
 
-    "whatsAppLink": "",
+    "whatsAppLink": "https://whatsapp.com/channel/0029Vb5WF3c7z4kbzvxEts17",
 
-    "email": "mulearn@cce.edu.in",
+    "email": "mulearncep@gmail.com",
 
-    "linkedIn": "",
+    "linkedIn": "https://www.linkedin.com/company/mulearn-prn",
 
-    "instagram": "",
+    "instagram": "https://www.instagram.com/mulearn.cep?igsh=MTFyMXRjM3hjMWM4bA==",
 
     "twitter": "",
 
